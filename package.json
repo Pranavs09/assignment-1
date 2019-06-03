@@ -1,0 +1,23 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^4.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranavs09/assignment-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranavs09/assignment-1/issues"
+  },
+  "homepage": "https://github.com/Pranavs09/assignment-1#readme"
+}
